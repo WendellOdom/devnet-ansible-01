@@ -1,6 +1,6 @@
 [all:vars]
 ansible_connection=local
-ansible_python_interpreter=/home/wendellodom/AN01/venv/bin/python
+ansible_python_interpreter="/usr/bin/env python"
 
 [sandbox]
 sandbox1 ansible_host='ios-xe-mgmt.cisco.com'
