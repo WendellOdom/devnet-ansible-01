@@ -6,8 +6,8 @@ ansible_python_interpreter="/usr/bin/env python"
 sandbox1 ansible_host='ios-xe-mgmt.cisco.com'
 
 [sandbox:vars]
-username=root
-password=D_Vay!_10&
+username=developer
+password=C1sco12345
 port=8181
 
 [homelab]
