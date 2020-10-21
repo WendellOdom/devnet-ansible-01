@@ -1,6 +1,0 @@
-onBoot="echo Message from WOs .replit file!"
-
-[packager]
-afterInstall="date >> package_install_log"
-ignoredPaths=[".git"]
-ignoredPackages=["twitter", "discord"]
